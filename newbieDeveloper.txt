@@ -42,7 +42,6 @@ https://community.risingstack.com/the-worlds-fastest-javascript-memoization-libr
 
 API Design:
 https://cloud.google.com/blog/products/api-management/api-design-101-links-our-most-popular-posts
+https://www.freecodecamp.org/news/rest-is-the-new-soap-97ff6c09896d/
+https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them // gRPC
 
-
-gRPC:
-https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
