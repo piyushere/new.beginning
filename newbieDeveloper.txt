@@ -40,5 +40,9 @@ https://github.com/caiogondim/fast-memoize.js
 https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/
 
 
+API Design:
+https://cloud.google.com/blog/products/api-management/api-design-101-links-our-most-popular-posts
+
+
 gRPC:
 https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
