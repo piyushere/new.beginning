@@ -1,0 +1,44 @@
+typescript: 
+https://www.youtube.com/watch?v=BwuLxPH8IDs
+https://www.youtube.com/watch?v=wD5WGkOEJRs // advanced typescript with decorators and factories
+https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n // No BS Typescript by jack harrington
+
+
+react hooks:
+https://www.youtube.com/watch?v=KJP1E-Y-xyo
+https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript
+https://kentcdodds.com/blog/stop-using-isloading-booleans
+https://reactjs.org/docs/error-boundaries.html
+https://github.com/bvaughn/react-error-boundary
+https://www.youtube.com/watch?v=zM_ZiSl2n2E //advanced by jack harrington
+https://www.youtube.com/watch?v=ja6meOLHjIg&list=PLH8IAbt5kqZMyPVUuYXXwlPWEdV2tzCjA&index=6 // swyx: react with typescript
+
+
+pandas:
+https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428
+https://towardsdatascience.com/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac
+
+
+ORMs:
+https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5/ //why you should avoid using them
+
+
+Job Queing:
+https://github.com/OptimalBits/bull
+
+
+Queing CPU intensive processes:
+https://github.blog/2009-11-03-introducing-resque/
+https://github.com/resque/resque  // this is a ruby based library
+https://github.com/technoweenie/coffee-resque  // trivial js implementation
+http://neilk.net/blog/2013/04/30/why-you-should-use-nodejs-for-CPU-bound-tasks/ // updated in 2018
+https://github.com/xk/node-threads-a-gogo
+https://github.com/SGrondin/bottleneck // schedule process with time limit
+
+Caching:
+https://github.com/caiogondim/fast-memoize.js
+https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/
+
+
+gRPC:
+https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
