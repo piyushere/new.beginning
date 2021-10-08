@@ -1,3 +1,7 @@
+NodeJS concurrency:
+https://tsh.io/blog/simple-guide-concurrency-node-js/
+
+
 typescript: 
 https://www.youtube.com/watch?v=BwuLxPH8IDs
 https://www.youtube.com/watch?v=wD5WGkOEJRs // advanced typescript with decorators and factories
