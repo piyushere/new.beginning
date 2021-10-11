@@ -1,3 +1,7 @@
+Documentation (no so obvious):
+https://diataxis.fr/
+
+
 NodeJS concurrency:
 https://tsh.io/blog/simple-guide-concurrency-node-js/
 
