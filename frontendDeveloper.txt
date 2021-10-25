@@ -1,0 +1,4 @@
+colors and theming:
+https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/
+https://www.samdawson.dev/article/tailwind-theming
+https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637
