@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=ja6meOLHjIg&list=PLH8IAbt5kqZMyPVUuYXXwlPWEdV2tz
 https://felixgerschau.com/react-performance-react-memo/
 https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/#standard-render-behavior
 https://alexsidorenko.com/blog/react-render-always-rerenders/
+https://overreacted.io/ // Dan Abromov's blog
+https://overreacted.io/before-you-memo/
 
 
 pandas:
