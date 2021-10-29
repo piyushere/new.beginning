@@ -20,6 +20,7 @@ https://reactjs.org/docs/error-boundaries.html
 https://github.com/bvaughn/react-error-boundary
 https://www.youtube.com/watch?v=zM_ZiSl2n2E //advanced by jack harrington
 https://www.youtube.com/watch?v=ja6meOLHjIg&list=PLH8IAbt5kqZMyPVUuYXXwlPWEdV2tzCjA&index=6 // swyx: react with typescript
+https://felixgerschau.com/react-performance-react-memo/
 
 
 pandas:
