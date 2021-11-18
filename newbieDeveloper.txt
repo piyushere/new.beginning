@@ -2,8 +2,9 @@ Documentation (no so obvious):
 https://diataxis.fr/
 
 
-NodeJS concurrency:
-https://tsh.io/blog/simple-guide-concurrency-node-js/
+NodeJS:
+https://tsh.io/blog/simple-guide-concurrency-node-js/ // concurrency
+https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf // project architecture
 
 
 typescript: 
