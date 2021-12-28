@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=wD5WGkOEJRs // advanced typescript with decorato
 https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n // No BS Typescript by jack harrington
 
 
-react hooks:
+react:
+https://alexkondov.com/articles
 https://www.youtube.com/watch?v=KJP1E-Y-xyo
 https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript
 https://kentcdodds.com/blog/stop-using-isloading-booleans
