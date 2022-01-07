@@ -1,7 +1,1 @@
-# newBeginning
-# COMMIT OF TEST BRANCH 1
-
-## THIS IS TEXT IN MAIN BRANCH
-## USING THIS BRANCH FOR TESTING GIT
-
-# COMMIT OF TEST BRANCH 2
+Collection of all the articles I have came across in my developer journey
