@@ -13,22 +13,6 @@ https://diataxis.fr/
 - https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n // No BS Typescript by jack harrington
 
 
-### react:
-- https://alexkondov.com/articles
-- https://www.youtube.com/watch?v=KJP1E-Y-xyo
-- https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript
-- https://kentcdodds.com/blog/stop-using-isloading-booleans
-- https://reactjs.org/docs/error-boundaries.html
-- https://github.com/bvaughn/react-error-boundary
-- https://www.youtube.com/watch?v=zM_ZiSl2n2E //advanced by jack harrington
-- https://www.youtube.com/watch?v=ja6meOLHjIg&list=PLH8IAbt5kqZMyPVUuYXXwlPWEdV2tzCjA&index=6 // swyx: react with typescript
-- https://felixgerschau.com/react-performance-react-memo/
-- https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/#standard-render-behavior
-- https://alexsidorenko.com/blog/react-render-always-rerenders/
-- https://overreacted.io/ // Dan Abromov's blog
-- https://overreacted.io/before-you-memo/
-
-
 ## pandas:
 - https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428
 - https://towardsdatascience.com/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac
