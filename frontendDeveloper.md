@@ -1,7 +1,7 @@
-web in general:
+### web in general:
 - https://web.dev
 
-# colors and theming:
+### colors and theming:
 - https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/
 - https://www.refactoringui.com/previews/building-your-color-palette
 - https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
