@@ -23,7 +23,7 @@
 - https://alexsidorenko.com/blog/react-render-always-rerenders/
 - https://overreacted.io/ // Dan Abromov's blog
 - https://overreacted.io/before-you-memo/
-
+- https://medium.com/ne-digital/how-to-reduce-next-js-bundle-size-68f7ac70c375
 
 ### Routing:
 - route guards: https://ui.dev/react-router-protected-routes-authentication
