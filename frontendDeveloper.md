@@ -27,3 +27,4 @@
 
 ### Routing:
 - route guards: https://ui.dev/react-router-protected-routes-authentication
+- nesting: https://ui.dev/react-router-nested-routes
