@@ -14,3 +14,6 @@
 
 - get the service status  
 `kubectl get pods -l app=<name>`
+
+- access the  service locally  
+`kubectl port-forward deployment/kubecdc 80:3000 --address 0.0.0.0`
