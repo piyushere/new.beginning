@@ -17,3 +17,7 @@
 
 - access the  service locally  
 `kubectl port-forward deployment/kubecdc 80:3000 --address 0.0.0.0`
+
+- Get the service URL when configured as NodePort  
+`minikube service <service-name> --url`
+
