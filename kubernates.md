@@ -21,3 +21,5 @@
 - Get the service URL when configured as NodePort  
 `minikube service <service-name> --url`
 
+- Attach to a pod  
+`kubectl exec --stdin --tty cdcclient-5fff675b64-97pkv -- /bin/bash`
