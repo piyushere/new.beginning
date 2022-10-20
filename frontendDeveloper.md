@@ -24,6 +24,7 @@
 - https://overreacted.io/ // Dan Abromov's blog
 - https://overreacted.io/before-you-memo/
 - https://medium.com/ne-digital/how-to-reduce-next-js-bundle-size-68f7ac70c375
+- https://www.patterns.dev/
 
 ### Routing:
 - route guards: https://ui.dev/react-router-protected-routes-authentication
