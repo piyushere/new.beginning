@@ -28,3 +28,7 @@
 ### Routing:
 - route guards: https://ui.dev/react-router-protected-routes-authentication
 - nesting: https://ui.dev/react-router-nested-routes
+
+
+### Downshift.js:
+- https://making.close.com/posts/highlights-from-a-complex-downshift-js-refactor/
