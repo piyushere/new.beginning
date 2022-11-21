@@ -26,6 +26,11 @@
 - https://medium.com/ne-digital/how-to-reduce-next-js-bundle-size-68f7ac70c375
 - https://www.patterns.dev/
 
+
+### Animations:
+= https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/
+
+
 ### Routing:
 - route guards: https://ui.dev/react-router-protected-routes-authentication
 - nesting: https://ui.dev/react-router-nested-routes
