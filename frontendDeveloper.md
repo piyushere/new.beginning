@@ -27,6 +27,10 @@
 - https://www.patterns.dev/
 
 
+### Browser APIs:
+- intersection obsersver: https://blog.webdevsimplified.com/2022-01/intersection-observer/
+
+
 ### Animations:
 = https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/
 
