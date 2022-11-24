@@ -30,9 +30,11 @@
 ### Browser APIs:
 - intersection obsersver: https://blog.webdevsimplified.com/2022-01/intersection-observer/
 
+### CSS:
+- https://stackoverflow.com/questions/33217407/css-negative-z-index-what-does-it-mean
 
 ### Animations:
-= https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/
+- https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/
 
 
 ### Routing:
