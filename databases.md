@@ -9,3 +9,5 @@ Clustering and indexing:
 Misc:
 - TEXT or VARCHAR?: https://stackoverflow.com/questions/4848964/difference-between-text-and-varchar-character-varying
 - CTEs: https://www.datacamp.com/tutorial/cte-sql
+- Database normalization
+- ORM design patterns: Unit of work, Repository, Active Record, etc.
